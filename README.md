@@ -1,2 +1,2 @@
 # UnibArcade
-Android native app for an arcade games collection.
+Native android app developed during the university course of mobile development for an arcade games collection.
